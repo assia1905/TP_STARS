@@ -21,7 +21,7 @@
 - Clonez le dépôt du projet :
 
    ```bash
-   - git clone https://github.com/votre_nom_utilisateur/TP_Stars.git
+   - git clone https://github.com/assia1905/TP_STARS.git
 - Ouvrez le projet dans Android Studio.
 
 - Compilez le projet et lancez l'application sur un appareil physique ou un émulateur.
@@ -44,7 +44,7 @@
   - Une classe représentant une célébrité, avec des attributs tels que le nom, l'image, et la note.
 
 ## Demonstration en video
-- Ajoutez ici des captures d'écran de l'application pour montrer l'interface utilisateur.
+- https://github.com/user-attachments/assets/4be50bf3-712d-490f-8d80-0ebc2a729576
 
 ## Utilisation
 - Lancez l'application.
